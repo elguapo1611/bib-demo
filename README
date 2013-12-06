@@ -1,0 +1,6 @@
+# Usage
+
+$ gem install bibtex-ruby
+$ ruby bib_to_json.rb
+
+# demo.json will be generated from demo.bib
